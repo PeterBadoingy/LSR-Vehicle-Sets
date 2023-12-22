@@ -1,0 +1,233 @@
+  <DispatchableVehicleGroup>
+    <DispatchableVehicleGroupID>AncelottiVehicles</DispatchableVehicleGroupID>
+    <DispatchableVehicles>
+      <DispatchableVehicle>
+        <DebugName>huntley_PeterBadoingy</DebugName>
+        <ModelName>huntley</ModelName>
+        <RequiredPedGroup />
+        <GroupName />
+        <MinOccupants>1</MinOccupants>
+        <MaxOccupants>4</MaxOccupants>
+        <AmbientSpawnChance>75</AmbientSpawnChance>
+        <WantedSpawnChance>75</WantedSpawnChance>
+        <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+        <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+        <ForceStayInSeats />
+        <CaninePossibleSeats />
+        <RequiredPrimaryColorID>141</RequiredPrimaryColorID>
+        <RequiredSecondaryColorID>141</RequiredSecondaryColorID>
+        <RequiredLiveries />
+        <VehicleExtras />
+        <OptionalColors />
+        <MaxRandomDirtLevel>5</MaxRandomDirtLevel>
+        <RequiredVariation>
+          <PrimaryColor>141</PrimaryColor>
+          <SecondaryColor>141</SecondaryColor>
+          <IsPrimaryColorCustom>false</IsPrimaryColorCustom>
+          <CustomPrimaryColor />
+          <IsSecondaryColorCustom>false</IsSecondaryColorCustom>
+          <CustomSecondaryColor />
+          <PearlescentColor>73</PearlescentColor>
+          <WheelColor>0</WheelColor>
+          <Mod1PaintType>7</Mod1PaintType>
+          <Mod1Color>-1</Mod1Color>
+          <Mod1PearlescentColor>-1</Mod1PearlescentColor>
+          <Mod2PaintType>7</Mod2PaintType>
+          <Mod2Color>-1</Mod2Color>
+          <Livery>-1</Livery>
+          <Livery2>-1</Livery2>
+          <LicensePlate>
+            <PlateNumber>ANC1 </PlateNumber>
+            <IsWanted>false</IsWanted>
+            <PlateType>1</PlateType>
+          </LicensePlate>
+          <WheelType>3</WheelType>
+          <WindowTint>3</WindowTint>
+          <HasCustomWheels>false</HasCustomWheels>
+          <VehicleExtras>
+            <VehicleExtra>
+              <ID>10</ID>
+              <IsTurnedOn>true</IsTurnedOn>
+            </VehicleExtra>
+            <VehicleExtra>
+              <ID>12</ID>
+              <IsTurnedOn>true</IsTurnedOn>
+            </VehicleExtra>
+          </VehicleExtras>
+          <VehicleToggles>
+            <VehicleToggle>
+              <ID>18</ID>
+              <IsTurnedOn>true</IsTurnedOn>
+            </VehicleToggle>
+          </VehicleToggles>
+          <VehicleMods>
+            <VehicleMod>
+              <ID>23</ID>
+              <Output>9</Output>
+            </VehicleMod>
+          </VehicleMods>
+          <VehicleNeons />
+          <FuelLevel>65</FuelLevel>
+          <DirtLevel>0</DirtLevel>
+          <HasInvicibleTires>false</HasInvicibleTires>
+          <IsTireSmokeColorCustom>false</IsTireSmokeColorCustom>
+          <TireSmokeColorR>0</TireSmokeColorR>
+          <TireSmokeColorG>0</TireSmokeColorG>
+          <TireSmokeColorB>0</TireSmokeColorB>
+          <NeonColorR>0</NeonColorR>
+          <NeonColorG>0</NeonColorG>
+          <NeonColorB>0</NeonColorB>
+          <InteriorColor>0</InteriorColor>
+          <DashboardColor>0</DashboardColor>
+          <XenonLightColor>0</XenonLightColor>
+        </RequiredVariation>
+        <RequiresDLC>false</RequiresDLC>
+      </DispatchableVehicle>
+      <DispatchableVehicle>
+        <DebugName>cogcabrio_PeterBadoingy</DebugName>
+        <ModelName>cogcabrio</ModelName>
+        <RequiredPedGroup />
+        <GroupName />
+        <MinOccupants>1</MinOccupants>
+        <MaxOccupants>2</MaxOccupants>
+        <AmbientSpawnChance>75</AmbientSpawnChance>
+        <WantedSpawnChance>75</WantedSpawnChance>
+        <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+        <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+        <ForceStayInSeats />
+        <CaninePossibleSeats />
+        <RequiredPrimaryColorID>141</RequiredPrimaryColorID>
+        <RequiredSecondaryColorID>141</RequiredSecondaryColorID>
+        <RequiredLiveries />
+        <VehicleExtras />
+        <OptionalColors />
+        <MaxRandomDirtLevel>5</MaxRandomDirtLevel>
+        <RequiredVariation>
+          <PrimaryColor>141</PrimaryColor>
+          <SecondaryColor>141</SecondaryColor>
+          <IsPrimaryColorCustom>false</IsPrimaryColorCustom>
+          <CustomPrimaryColor />
+          <IsSecondaryColorCustom>false</IsSecondaryColorCustom>
+          <CustomSecondaryColor />
+          <PearlescentColor>73</PearlescentColor>
+          <WheelColor>0</WheelColor>
+          <Mod1PaintType>7</Mod1PaintType>
+          <Mod1Color>-1</Mod1Color>
+          <Mod1PearlescentColor>-1</Mod1PearlescentColor>
+          <Mod2PaintType>7</Mod2PaintType>
+          <Mod2Color>-1</Mod2Color>
+          <Livery>-1</Livery>
+          <Livery2>-1</Livery2>
+          <LicensePlate>
+            <PlateNumber>ANC2 </PlateNumber>
+            <IsWanted>false</IsWanted>
+            <PlateType>1</PlateType>
+          </LicensePlate>
+          <WheelType>12</WheelType>
+          <WindowTint>3</WindowTint>
+          <HasCustomWheels>false</HasCustomWheels>
+          <VehicleExtras />
+          <VehicleToggles>
+            <VehicleToggle>
+              <ID>18</ID>
+              <IsTurnedOn>true</IsTurnedOn>
+            </VehicleToggle>
+          </VehicleToggles>
+          <VehicleMods>
+            <VehicleMod>
+              <ID>23</ID>
+              <Output>17</Output>
+            </VehicleMod>
+          </VehicleMods>
+          <VehicleNeons />
+          <FuelLevel>65</FuelLevel>
+          <DirtLevel>0</DirtLevel>
+          <HasInvicibleTires>false</HasInvicibleTires>
+          <IsTireSmokeColorCustom>false</IsTireSmokeColorCustom>
+          <TireSmokeColorR>0</TireSmokeColorR>
+          <TireSmokeColorG>0</TireSmokeColorG>
+          <TireSmokeColorB>0</TireSmokeColorB>
+          <NeonColorR>0</NeonColorR>
+          <NeonColorG>0</NeonColorG>
+          <NeonColorB>0</NeonColorB>
+          <InteriorColor>0</InteriorColor>
+          <DashboardColor>0</DashboardColor>
+          <XenonLightColor>0</XenonLightColor>
+        </RequiredVariation>
+        <RequiresDLC>false</RequiresDLC>
+      </DispatchableVehicle>
+      <DispatchableVehicle>
+        <DebugName>cog55_PeterBadoingy_DLCDespawn</DebugName>
+        <ModelName>cog55</ModelName>
+        <RequiredPedGroup />
+        <GroupName />
+        <MinOccupants>1</MinOccupants>
+        <MaxOccupants>4</MaxOccupants>
+        <AmbientSpawnChance>75</AmbientSpawnChance>
+        <WantedSpawnChance>75</WantedSpawnChance>
+        <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+        <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+        <ForceStayInSeats />
+        <CaninePossibleSeats />
+        <RequiredPrimaryColorID>141</RequiredPrimaryColorID>
+        <RequiredSecondaryColorID>141</RequiredSecondaryColorID>
+        <RequiredLiveries />
+        <VehicleExtras />
+        <OptionalColors />
+        <MaxRandomDirtLevel>5</MaxRandomDirtLevel>
+        <RequiredVariation>
+          <PrimaryColor>141</PrimaryColor>
+          <SecondaryColor>141</SecondaryColor>
+          <IsPrimaryColorCustom>false</IsPrimaryColorCustom>
+          <CustomPrimaryColor />
+          <IsSecondaryColorCustom>false</IsSecondaryColorCustom>
+          <CustomSecondaryColor />
+          <PearlescentColor>73</PearlescentColor>
+          <WheelColor>0</WheelColor>
+          <Mod1PaintType>7</Mod1PaintType>
+          <Mod1Color>-1</Mod1Color>
+          <Mod1PearlescentColor>-1</Mod1PearlescentColor>
+          <Mod2PaintType>7</Mod2PaintType>
+          <Mod2Color>-1</Mod2Color>
+          <Livery>-1</Livery>
+          <Livery2>-1</Livery2>
+          <LicensePlate>
+            <PlateNumber>ANC3 </PlateNumber>
+            <IsWanted>false</IsWanted>
+            <PlateType>1</PlateType>
+          </LicensePlate>
+          <WheelType>11</WheelType>
+          <WindowTint>3</WindowTint>
+          <HasCustomWheels>false</HasCustomWheels>
+          <VehicleExtras />
+          <VehicleToggles>
+            <VehicleToggle>
+              <ID>18</ID>
+              <IsTurnedOn>true</IsTurnedOn>
+            </VehicleToggle>
+          </VehicleToggles>
+          <VehicleMods>
+            <VehicleMod>
+              <ID>23</ID>
+              <Output>16</Output>
+            </VehicleMod>
+          </VehicleMods>
+          <VehicleNeons />
+          <FuelLevel>65</FuelLevel>
+          <DirtLevel>0</DirtLevel>
+          <HasInvicibleTires>false</HasInvicibleTires>
+          <IsTireSmokeColorCustom>false</IsTireSmokeColorCustom>
+          <TireSmokeColorR>0</TireSmokeColorR>
+          <TireSmokeColorG>0</TireSmokeColorG>
+          <TireSmokeColorB>0</TireSmokeColorB>
+          <NeonColorR>0</NeonColorR>
+          <NeonColorG>0</NeonColorG>
+          <NeonColorB>0</NeonColorB>
+          <InteriorColor>93</InteriorColor>
+          <DashboardColor>156</DashboardColor>
+          <XenonLightColor>0</XenonLightColor>
+        </RequiredVariation>
+        <RequiresDLC>true</RequiresDLC>
+      </DispatchableVehicle>
+    </DispatchableVehicles>
+  </DispatchableVehicleGroup>

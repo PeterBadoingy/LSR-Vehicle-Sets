@@ -81,16 +81,11 @@ Fix for Dials Color
 
 
 Varrios Vehicles:
-Fix for Dials Color -
-
------
-
+Fix for Dials Color 
 
 BUCCANEERs
 
           <DashboardColor>127</DashboardColor>
-
------
 
 
 Tulip

@@ -116,10 +116,12 @@ WindowTint - 3 = Light Tint
 
 Families:
 aleutian_PeterBadoingy_DLCDespawn
+
 Maybe used my config to setup security vehicles then set all tints to 0 for the aleutian vehicle and caught this aswell possibly?
 
 Gambetti: 
 baller4_PeterBadoingy_DLCDespawn 
+
 This originally didn't get a tint set as it had it by default id = -1
 Found set to 0 removing the tint
 

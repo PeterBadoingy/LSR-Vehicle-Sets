@@ -13,9 +13,12 @@ Missing From FEJ Config
 Used my own and updated the Plates to match the rest of the config.
 
 Removed RequiredVariation Lisence Plates
-added <ForcedPlateType>-1</ForcedPlateType>
+added 
+
+         <ForcedPlateType>-1</ForcedPlateType>
 
 Fix for Dials Color
+
           <DashboardColor>-1</DashboardColor>
 
 
@@ -28,6 +31,7 @@ Patriot
 Kamacho
 Hellion
 FFix for Dials Color
+
           <DashboardColor>-1</DashboardColor>
 
 
@@ -36,6 +40,7 @@ FFix for Dials Color
 
 Diablo Vehicles:
 Fix for Dials Color
+
           <DashboardColor>-1</DashboardColor>
 
 --------------------------
@@ -45,6 +50,7 @@ Korean Vehicles:
 Changed Wheels
 Added Pearlescent to Paint
 Fix for Dials Color
+
           <DashboardColor>-1</DashboardColor>
 
 ---------------------------
@@ -52,6 +58,7 @@ Fix for Dials Color
 
 Marabunte Vehicles:
 Fix for Dials Color
+
           <DashboardColor>127</DashboardColor>
 
 --------------------------
@@ -59,6 +66,7 @@ Fix for Dials Color
 
 Redneck Vehicles:
 Fix for Dials Color
+
           <DashboardColor>-1</DashboardColor>
 
 --------------------------
@@ -66,6 +74,7 @@ Fix for Dials Color
 
 Triad Vehicles:
 Fix for Dials Color
+
           <DashboardColor>-1</DashboardColor>
 
 -----------------------
@@ -78,6 +87,7 @@ Fix for Dials Color -
 
 
 BUCCANEERs
+
           <DashboardColor>127</DashboardColor>
 
 -----
@@ -85,6 +95,7 @@ BUCCANEERs
 
 Tulip
 Vamos
+
           <DashboardColor>-1</DashboardColor>
 
 --------------------
@@ -93,10 +104,12 @@ Vamos
 Redneck Vehicles:
 Fix for Dials Color:
 All cars except Slamvan3
+
           <DashboardColor>-1</DashboardColor>
           
 
 Slamvan3:
+
           <DashboardColor>131</DashboardColor>
           
 

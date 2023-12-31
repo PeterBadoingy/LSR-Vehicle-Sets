@@ -8,7 +8,7 @@ All "Custom" Variants of lowrider/muscle cars and some cars with custom dials ar
 --------------------------
 
 ArmeniaVehicles:
-Missing From FEJ Config
+Missing From FEJ Config in 225
 Used my own and updated the Plates to match the rest of the config.
 
 Removed RequiredVariation Lisence Plates

@@ -1,4 +1,4 @@
-Vehicle Stuff LSR 205  31/12/23
+Vehicle Stuff n notes LSR 205 31/12/23
 
 All "Custom" Variants of lowrider/muscle cars and some cars with custom dials are blacked out with 
 
@@ -9,7 +9,9 @@ All "Custom" Variants of lowrider/muscle cars and some cars with custom dials ar
 
 
 ArmeniaVehicles:
+
 Missing From FEJ Config
+
 Used my own and updated the Plates to match the rest of the config.
 
 Removed RequiredVariation Lisence Plates
@@ -26,11 +28,13 @@ Fix for Dials Color
 
 
 Cartel Vehicles:
+
 Returned offroad wheels to:
 Patriot
 Kamacho
 Hellion
-FFix for Dials Color
+
+Fix for Dials Color
 
           <DashboardColor>-1</DashboardColor>
 
@@ -39,6 +43,7 @@ FFix for Dials Color
 
 
 Diablo Vehicles:
+
 Fix for Dials Color
 
           <DashboardColor>-1</DashboardColor>
@@ -47,6 +52,7 @@ Fix for Dials Color
 
 
 Korean Vehicles:
+
 Changed Wheels
 Added Pearlescent to Paint
 Fix for Dials Color
@@ -57,6 +63,7 @@ Fix for Dials Color
 
 
 Marabunte Vehicles:
+
 Fix for Dials Color
 
           <DashboardColor>127</DashboardColor>
@@ -65,6 +72,7 @@ Fix for Dials Color
 
 
 Redneck Vehicles:
+
 Fix for Dials Color
 
           <DashboardColor>-1</DashboardColor>
@@ -73,6 +81,7 @@ Fix for Dials Color
 
 
 Triad Vehicles:
+
 Fix for Dials Color
 
           <DashboardColor>-1</DashboardColor>
@@ -81,6 +90,7 @@ Fix for Dials Color
 
 
 Varrios Vehicles:
+
 Fix for Dials Color 
 
 BUCCANEERs
@@ -97,6 +107,7 @@ Vamos
 
 
 Redneck Vehicles:
+
 Fix for Dials Color:
 All cars except Slamvan3
 

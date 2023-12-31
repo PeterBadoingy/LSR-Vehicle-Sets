@@ -7,6 +7,7 @@ All "Custom" Variants of lowrider/muscle cars and some cars with custom dials ar
 
 --------------------------
 
+
 ArmeniaVehicles:
 Missing From FEJ Config
 Used my own and updated the Plates to match the rest of the config.
@@ -17,7 +18,9 @@ added <ForcedPlateType>-1</ForcedPlateType>
 Fix for Dials Color
           <DashboardColor>-1</DashboardColor>
 
+
 ---------------------------
+
 
 Cartel Vehicles:
 Returned offroad wheels to:
@@ -27,12 +30,17 @@ Hellion
 FFix for Dials Color
           <DashboardColor>-1</DashboardColor>
 
+
 ------------------------
+
+
 Diablo Vehicles:
 Fix for Dials Color
           <DashboardColor>-1</DashboardColor>
 
 --------------------------
+
+
 Korean Vehicles:
 Changed Wheels
 Added Pearlescent to Paint
@@ -40,17 +48,21 @@ Fix for Dials Color
           <DashboardColor>-1</DashboardColor>
 
 ---------------------------
+
+
 Marabunte Vehicles:
 Fix for Dials Color
           <DashboardColor>127</DashboardColor>
 
 --------------------------
 
+
 Redneck Vehicles:
 Fix for Dials Color
           <DashboardColor>-1</DashboardColor>
 
 --------------------------
+
 
 Triad Vehicles:
 Fix for Dials Color
@@ -58,29 +70,38 @@ Fix for Dials Color
 
 -----------------------
 
+
 Varrios Vehicles:
 Fix for Dials Color -
 
 -----
+
+
 BUCCANEERs
           <DashboardColor>127</DashboardColor>
 
 -----
+
+
 Tulip
 Vamos
           <DashboardColor>-1</DashboardColor>
 
 --------------------
 
+
 Redneck Vehicles:
 Fix for Dials Color:
 All cars except Slamvan3
           <DashboardColor>-1</DashboardColor>
+          
 
 Slamvan3:
           <DashboardColor>131</DashboardColor>
+          
 
 --------------------------
+
 
 Window Tint Missing
 WindowTint - 3 = Light Tint
@@ -94,7 +115,9 @@ baller4_PeterBadoingy_DLCDespawn
 This originally didn't get a tint set as it had it by default id = -1
 Found set to 0 removing the tint
 
+
 --------------------------
+
 
 Exhaust Bug (R's Fault):
 If they don't fix it glitching to the ground after a certain distance.

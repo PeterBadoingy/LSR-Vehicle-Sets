@@ -1,5 +1,5 @@
       <DispatchableVehicle>
-        <DebugName>eudora_Peter_Badoingy_DLCDespawn</DebugName>
+        <DebugName>eudora_PB_Yardie_DLCDespawn</DebugName>
         <ModelName>eudora</ModelName>
         <RequiredPedGroup />
         <GroupName />
@@ -89,7 +89,7 @@
         <RequiresDLC>true</RequiresDLC>
       </DispatchableVehicle>
       <DispatchableVehicle>
-        <DebugName>buccaneer2_Peter_Badoingy_DLCDespawn</DebugName>
+        <DebugName>buccaneer2_PB_Yardie_DLCDespawn</DebugName>
         <ModelName>buccaneer2</ModelName>
         <RequiredPedGroup />
         <GroupName />
@@ -224,7 +224,7 @@
         <RequiresDLC>true</RequiresDLC>
       </DispatchableVehicle>
       <DispatchableVehicle>
-        <DebugName>voodoo_Peter_Badoingy_DLCDespawn</DebugName>
+        <DebugName>voodoo_PB_Yardie_DLCDespawn</DebugName>
         <ModelName>voodoo</ModelName>
         <RequiredPedGroup />
         <GroupName />
@@ -350,7 +350,7 @@
         <RequiresDLC>true</RequiresDLC>
       </DispatchableVehicle>
       <DispatchableVehicle>
-        <DebugName>tornado5_Peter_Badoingy_DLCDespawn</DebugName>
+        <DebugName>tornado5_PB_Yardie_DLCDespawn</DebugName>
         <ModelName>tornado5</ModelName>
         <RequiredPedGroup />
         <GroupName />
@@ -481,7 +481,7 @@
         <RequiresDLC>true</RequiresDLC>
       </DispatchableVehicle>
       <DispatchableVehicle>
-        <DebugName>manana2_Peter_Badoingy_DLCDespawn</DebugName>
+        <DebugName>manana2_PB_Yardie_DLCDespawn</DebugName>
         <ModelName>manana2</ModelName>
         <RequiredPedGroup />
         <GroupName />

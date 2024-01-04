@@ -1,152 +1,23 @@
-Vehicle Stuff n notes LSR 225 31/12/23
+Added Vehicles for
 
-All "Custom" Variants of lowrider/muscle cars and some cars with custom dials are blacked out with 
+The Lost: 
 
-          <DashboardColor>0</DashboardColor>
+BfSurfer - Lost Livery 
+2 avarus
+zombiea
+zombieb
 
-
---------------------------
-
-
-ArmeniaVehicles:
-
-Missing From FEJ Config
-
-Used my own and updated the Plates to match the rest of the config.
-
-Removed RequiredVariation Lisence Plates
-added 
-
-         <ForcedPlateType>-1</ForcedPlateType>
-
-Fix for Dials Color
-
-          <DashboardColor>-1</DashboardColor>
-
-
----------------------------
-
-
-Cartel Vehicles:
-
-Returned offroad wheels to:
-Patriot
-Kamacho
-Hellion
-
-Fix for Dials Color
-
-          <DashboardColor>-1</DashboardColor>
-
-
-------------------------
-
-
-Diablo Vehicles:
-
-Fix for Dials Color
-
-          <DashboardColor>-1</DashboardColor>
+extras:
+sanctus
+wolfsbane
+chimera
 
 --------------------------
 
+Yardies:
 
-Korean Vehicles:
-
-Changed Wheels
-Added Pearlescent to Paint
-Fix for Dials Color
-
-          <DashboardColor>-1</DashboardColor>
-
----------------------------
-
-
-Marabunte Vehicles:
-
-Fix for Dials Color
-
-          <DashboardColor>127</DashboardColor>
-
---------------------------
-
-
-Redneck Vehicles:
-
-Fix for Dials Color
-
-          <DashboardColor>-1</DashboardColor>
-
---------------------------
-
-
-Triad Vehicles:
-
-Fix for Dials Color
-
-          <DashboardColor>-1</DashboardColor>
-
------------------------
-
-
-Varrios Vehicles:
-
-Fix for Dials Color 
-
-BUCCANEERs
-
-          <DashboardColor>127</DashboardColor>
-
-
-Tulip
-Vamos
-
-          <DashboardColor>-1</DashboardColor>
-
---------------------
-
-
-Redneck Vehicles:
-
-Fix for Dials Color:
-All cars except Slamvan3
-
-          <DashboardColor>-1</DashboardColor>
-          
-
-Slamvan3:
-
-          <DashboardColor>131</DashboardColor>
-          
-
---------------------------
-
-
-Window Tint Missing
-WindowTint - 3 = Light Tint
-
-Families:
-aleutian_PeterBadoingy_DLCDespawn
-
-Maybe used my config to setup security vehicles then set all tints to 0 for the aleutian vehicle and caught this aswell possibly?
-
-Gambetti: 
-baller4_PeterBadoingy_DLCDespawn 
-
-This originally didn't get a tint set as it had it by default id = -1
-Found set to 0 removing the tint
-
-
---------------------------
-
-
-Exhaust Bug (R's Fault):
-If they don't fix it glitching to the ground after a certain distance.
-Remove:
-
-            <VehicleMod>
-              <ID>4</ID>
-              <Output>3</Output>
-            </VehicleMod>
-
-From Vagos - dorado_PeterBadoingy_DLCDespawn
+eudora
+buccaneer2
+voodoo
+tornado5
+manana2

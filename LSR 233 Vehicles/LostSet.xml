@@ -1,0 +1,793 @@
+      <DispatchableVehicle>
+        <DebugName>avarus_PB_DieHard_DLCDespawn</DebugName>
+        <ModelName>avarus</ModelName>
+        <RequiredPedGroup />
+        <GroupName />
+        <MinOccupants>1</MinOccupants>
+        <MaxOccupants>1</MaxOccupants>
+        <AmbientSpawnChance>20</AmbientSpawnChance>
+        <WantedSpawnChance>20</WantedSpawnChance>
+        <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+        <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+        <RequiredPrimaryColorID>131</RequiredPrimaryColorID>
+        <RequiredSecondaryColorID>118</RequiredSecondaryColorID>
+        <RequiredLiveries />
+        <VehicleExtras />
+        <VehicleMods />
+        <MaxRandomDirtLevel>5</MaxRandomDirtLevel>
+        <ForcedPlateType>-1</ForcedPlateType>
+        <RequiredVariation>
+          <PrimaryColor>131</PrimaryColor>
+          <SecondaryColor>118</SecondaryColor>
+          <IsPrimaryColorCustom>false</IsPrimaryColorCustom>
+          <CustomPrimaryColor />
+          <IsSecondaryColorCustom>false</IsSecondaryColorCustom>
+          <CustomSecondaryColor />
+          <PearlescentColor>0</PearlescentColor>
+          <WheelColor>120</WheelColor>
+          <Mod1PaintType>7</Mod1PaintType>
+          <Mod1Color>-1</Mod1Color>
+          <Mod1PearlescentColor>-1</Mod1PearlescentColor>
+          <Mod2PaintType>7</Mod2PaintType>
+          <Mod2Color>-1</Mod2Color>
+          <Livery>-1</Livery>
+          <Livery2>-1</Livery2>
+          <WheelType>6</WheelType>
+          <WindowTint>-1</WindowTint>
+          <HasCustomWheels>false</HasCustomWheels>
+          <VehicleExtras />
+          <VehicleToggles />
+          <VehicleMods>
+            <VehicleMod>
+              <ID>0</ID>
+              <Output>11</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>1</ID>
+              <Output>1</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>2</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>3</ID>
+              <Output>5</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>4</ID>
+              <Output>2</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>5</ID>
+              <Output>2</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>8</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>10</ID>
+              <Output>3</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>23</ID>
+              <Output>11</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>24</ID>
+              <Output>11</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>48</ID>
+              <Output>11</Output>
+            </VehicleMod>
+          </VehicleMods>
+          <VehicleNeons />
+          <FuelLevel>65</FuelLevel>
+          <DirtLevel>0</DirtLevel>
+          <HasInvicibleTires>false</HasInvicibleTires>
+          <IsTireSmokeColorCustom>false</IsTireSmokeColorCustom>
+          <TireSmokeColorR>0</TireSmokeColorR>
+          <TireSmokeColorG>0</TireSmokeColorG>
+          <TireSmokeColorB>0</TireSmokeColorB>
+          <NeonColorR>0</NeonColorR>
+          <NeonColorG>0</NeonColorG>
+          <NeonColorB>0</NeonColorB>
+          <InteriorColor>111</InteriorColor>
+          <DashboardColor>111</DashboardColor>
+          <XenonLightColor>0</XenonLightColor>
+        </RequiredVariation>
+        <RequiresDLC>true</RequiresDLC>
+      </DispatchableVehicle>
+      <DispatchableVehicle>
+        <DebugName>avarus_PB_Flag_DLCDespawn</DebugName>
+        <ModelName>avarus</ModelName>
+        <RequiredPedGroup />
+        <GroupName />
+        <MinOccupants>1</MinOccupants>
+        <MaxOccupants>1</MaxOccupants>
+        <AmbientSpawnChance>20</AmbientSpawnChance>
+        <WantedSpawnChance>20</WantedSpawnChance>
+        <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+        <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+        <RequiredPrimaryColorID>12</RequiredPrimaryColorID>
+        <RequiredSecondaryColorID>12</RequiredSecondaryColorID>
+        <RequiredLiveries />
+        <VehicleExtras />
+        <VehicleMods />
+        <MaxRandomDirtLevel>5</MaxRandomDirtLevel>
+        <ForcedPlateType>-1</ForcedPlateType>
+        <RequiredVariation>
+          <PrimaryColor>12</PrimaryColor>
+          <SecondaryColor>12</SecondaryColor>
+          <IsPrimaryColorCustom>false</IsPrimaryColorCustom>
+          <CustomPrimaryColor />
+          <IsSecondaryColorCustom>false</IsSecondaryColorCustom>
+          <CustomSecondaryColor />
+          <PearlescentColor>0</PearlescentColor>
+          <WheelColor>2</WheelColor>
+          <Mod1PaintType>7</Mod1PaintType>
+          <Mod1Color>-1</Mod1Color>
+          <Mod1PearlescentColor>-1</Mod1PearlescentColor>
+          <Mod2PaintType>7</Mod2PaintType>
+          <Mod2Color>-1</Mod2Color>
+          <Livery>-1</Livery>
+          <Livery2>-1</Livery2>
+          <WheelType>6</WheelType>
+          <WindowTint>0</WindowTint>
+          <HasCustomWheels>false</HasCustomWheels>
+          <VehicleExtras />
+          <VehicleToggles />
+          <VehicleMods>
+            <VehicleMod>
+              <ID>0</ID>
+              <Output>3</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>1</ID>
+              <Output>1</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>3</ID>
+              <Output>2</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>4</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>10</ID>
+              <Output>2</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>23</ID>
+              <Output>21</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>24</ID>
+              <Output>21</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>48</ID>
+              <Output>15</Output>
+            </VehicleMod>
+          </VehicleMods>
+          <VehicleNeons />
+          <FuelLevel>65</FuelLevel>
+          <DirtLevel>0</DirtLevel>
+          <HasInvicibleTires>false</HasInvicibleTires>
+          <IsTireSmokeColorCustom>false</IsTireSmokeColorCustom>
+          <TireSmokeColorR>0</TireSmokeColorR>
+          <TireSmokeColorG>0</TireSmokeColorG>
+          <TireSmokeColorB>0</TireSmokeColorB>
+          <NeonColorR>0</NeonColorR>
+          <NeonColorG>0</NeonColorG>
+          <NeonColorB>0</NeonColorB>
+          <InteriorColor>111</InteriorColor>
+          <DashboardColor>111</DashboardColor>
+          <XenonLightColor>0</XenonLightColor>
+        </RequiredVariation>
+        <RequiresDLC>true</RequiresDLC>
+      </DispatchableVehicle>
+      <DispatchableVehicle>
+        <DebugName>zombiea_PB_Army_DLCDespawn</DebugName>
+        <ModelName>zombiea</ModelName>
+        <RequiredPedGroup />
+        <GroupName />
+        <MinOccupants>1</MinOccupants>
+        <MaxOccupants>1</MaxOccupants>
+        <AmbientSpawnChance>20</AmbientSpawnChance>
+        <WantedSpawnChance>20</WantedSpawnChance>
+        <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+        <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+        <RequiredPrimaryColorID>12</RequiredPrimaryColorID>
+        <RequiredSecondaryColorID>118</RequiredSecondaryColorID>
+        <RequiredLiveries />
+        <VehicleExtras />
+        <VehicleMods />
+        <MaxRandomDirtLevel>5</MaxRandomDirtLevel>
+        <ForcedPlateType>-1</ForcedPlateType>
+        <RequiredVariation>
+          <PrimaryColor>12</PrimaryColor>
+          <SecondaryColor>118</SecondaryColor>
+          <IsPrimaryColorCustom>false</IsPrimaryColorCustom>
+          <CustomPrimaryColor />
+          <IsSecondaryColorCustom>false</IsSecondaryColorCustom>
+          <CustomSecondaryColor />
+          <PearlescentColor>0</PearlescentColor>
+          <WheelColor>147</WheelColor>
+          <Mod1PaintType>7</Mod1PaintType>
+          <Mod1Color>-1</Mod1Color>
+          <Mod1PearlescentColor>-1</Mod1PearlescentColor>
+          <Mod2PaintType>7</Mod2PaintType>
+          <Mod2Color>-1</Mod2Color>
+          <Livery>-1</Livery>
+          <Livery2>-1</Livery2>
+          <WheelType>6</WheelType>
+          <WindowTint>-1</WindowTint>
+          <HasCustomWheels>false</HasCustomWheels>
+          <VehicleExtras />
+          <VehicleToggles />
+          <VehicleMods>
+            <VehicleMod>
+              <ID>0</ID>
+              <Output>7</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>1</ID>
+              <Output>1</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>2</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>3</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>4</ID>
+              <Output>1</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>5</ID>
+              <Output>1</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>8</ID>
+              <Output>5</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>10</ID>
+              <Output>6</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>23</ID>
+              <Output>8</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>24</ID>
+              <Output>9</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>48</ID>
+              <Output>11</Output>
+            </VehicleMod>
+          </VehicleMods>
+          <VehicleNeons />
+          <FuelLevel>65</FuelLevel>
+          <DirtLevel>0</DirtLevel>
+          <HasInvicibleTires>false</HasInvicibleTires>
+          <IsTireSmokeColorCustom>false</IsTireSmokeColorCustom>
+          <TireSmokeColorR>0</TireSmokeColorR>
+          <TireSmokeColorG>0</TireSmokeColorG>
+          <TireSmokeColorB>0</TireSmokeColorB>
+          <NeonColorR>0</NeonColorR>
+          <NeonColorG>0</NeonColorG>
+          <NeonColorB>0</NeonColorB>
+          <InteriorColor>111</InteriorColor>
+          <DashboardColor>111</DashboardColor>
+          <XenonLightColor>0</XenonLightColor>
+        </RequiredVariation>
+        <RequiresDLC>true</RequiresDLC>
+      </DispatchableVehicle>
+      <DispatchableVehicle>
+        <DebugName>zombieb_PB_Flames_DLCDespawn</DebugName>
+        <ModelName>zombieb</ModelName>
+        <RequiredPedGroup />
+        <GroupName />
+        <MinOccupants>1</MinOccupants>
+        <MaxOccupants>1</MaxOccupants>
+        <AmbientSpawnChance>20</AmbientSpawnChance>
+        <WantedSpawnChance>20</WantedSpawnChance>
+        <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+        <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+        <RequiredPrimaryColorID>12</RequiredPrimaryColorID>
+        <RequiredSecondaryColorID>118</RequiredSecondaryColorID>
+        <RequiredLiveries />
+        <VehicleExtras />
+        <VehicleMods />
+        <MaxRandomDirtLevel>5</MaxRandomDirtLevel>
+        <ForcedPlateType>-1</ForcedPlateType>
+        <RequiredVariation>
+          <PrimaryColor>12</PrimaryColor>
+          <SecondaryColor>118</SecondaryColor>
+          <IsPrimaryColorCustom>false</IsPrimaryColorCustom>
+          <CustomPrimaryColor />
+          <IsSecondaryColorCustom>false</IsSecondaryColorCustom>
+          <CustomSecondaryColor />
+          <PearlescentColor>0</PearlescentColor>
+          <WheelColor>147</WheelColor>
+          <Mod1PaintType>7</Mod1PaintType>
+          <Mod1Color>-1</Mod1Color>
+          <Mod1PearlescentColor>-1</Mod1PearlescentColor>
+          <Mod2PaintType>7</Mod2PaintType>
+          <Mod2Color>-1</Mod2Color>
+          <Livery>-1</Livery>
+          <Livery2>-1</Livery2>
+          <WheelType>6</WheelType>
+          <WindowTint>-1</WindowTint>
+          <HasCustomWheels>false</HasCustomWheels>
+          <VehicleExtras />
+          <VehicleToggles />
+          <VehicleMods>
+            <VehicleMod>
+              <ID>0</ID>
+              <Output>3</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>1</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>2</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>4</ID>
+              <Output>7</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>5</ID>
+              <Output>2</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>7</ID>
+              <Output>2</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>8</ID>
+              <Output>4</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>10</ID>
+              <Output>4</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>23</ID>
+              <Output>22</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>24</ID>
+              <Output>22</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>48</ID>
+              <Output>0</Output>
+            </VehicleMod>
+          </VehicleMods>
+          <VehicleNeons />
+          <FuelLevel>65</FuelLevel>
+          <DirtLevel>0</DirtLevel>
+          <HasInvicibleTires>false</HasInvicibleTires>
+          <IsTireSmokeColorCustom>false</IsTireSmokeColorCustom>
+          <TireSmokeColorR>0</TireSmokeColorR>
+          <TireSmokeColorG>0</TireSmokeColorG>
+          <TireSmokeColorB>0</TireSmokeColorB>
+          <NeonColorR>0</NeonColorR>
+          <NeonColorG>0</NeonColorG>
+          <NeonColorB>0</NeonColorB>
+          <InteriorColor>111</InteriorColor>
+          <DashboardColor>111</DashboardColor>
+          <XenonLightColor>0</XenonLightColor>
+        </RequiredVariation>
+        <RequiresDLC>true</RequiresDLC>
+      </DispatchableVehicle>
+      <DispatchableVehicle>
+        <DebugName>sanctus_PB_GhostFlame_DLCDespawn</DebugName>
+        <ModelName>sanctus</ModelName>
+        <RequiredPedGroup />
+        <GroupName />
+        <MinOccupants>1</MinOccupants>
+        <MaxOccupants>1</MaxOccupants>
+        <AmbientSpawnChance>20</AmbientSpawnChance>
+        <WantedSpawnChance>20</WantedSpawnChance>
+        <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+        <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+        <RequiredPrimaryColorID>13</RequiredPrimaryColorID>
+        <RequiredSecondaryColorID>5</RequiredSecondaryColorID>
+        <RequiredLiveries />
+        <VehicleExtras />
+        <VehicleMods />
+        <MaxRandomDirtLevel>5</MaxRandomDirtLevel>
+        <ForcedPlateType>-1</ForcedPlateType>
+        <RequiredVariation>
+          <PrimaryColor>13</PrimaryColor>
+          <SecondaryColor>5</SecondaryColor>
+          <IsPrimaryColorCustom>false</IsPrimaryColorCustom>
+          <CustomPrimaryColor />
+          <IsSecondaryColorCustom>false</IsSecondaryColorCustom>
+          <CustomSecondaryColor />
+          <PearlescentColor>0</PearlescentColor>
+          <WheelColor>73</WheelColor>
+          <Mod1PaintType>7</Mod1PaintType>
+          <Mod1Color>-1</Mod1Color>
+          <Mod1PearlescentColor>-1</Mod1PearlescentColor>
+          <Mod2PaintType>7</Mod2PaintType>
+          <Mod2Color>-1</Mod2Color>
+          <Livery>-1</Livery>
+          <Livery2>-1</Livery2>
+          <WheelType>6</WheelType>
+          <WindowTint>-1</WindowTint>
+          <HasCustomWheels>false</HasCustomWheels>
+          <VehicleExtras />
+          <VehicleToggles />
+          <VehicleMods>
+            <VehicleMod>
+              <ID>0</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>1</ID>
+              <Output>1</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>2</ID>
+              <Output>1</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>3</ID>
+              <Output>4</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>4</ID>
+              <Output>2</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>5</ID>
+              <Output>2</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>10</ID>
+              <Output>1</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>23</ID>
+              <Output>68</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>24</ID>
+              <Output>68</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>48</ID>
+              <Output>2</Output>
+            </VehicleMod>
+          </VehicleMods>
+          <VehicleNeons />
+          <FuelLevel>65</FuelLevel>
+          <DirtLevel>0</DirtLevel>
+          <HasInvicibleTires>false</HasInvicibleTires>
+          <IsTireSmokeColorCustom>false</IsTireSmokeColorCustom>
+          <TireSmokeColorR>0</TireSmokeColorR>
+          <TireSmokeColorG>0</TireSmokeColorG>
+          <TireSmokeColorB>0</TireSmokeColorB>
+          <NeonColorR>0</NeonColorR>
+          <NeonColorG>0</NeonColorG>
+          <NeonColorB>0</NeonColorB>
+          <InteriorColor>111</InteriorColor>
+          <DashboardColor>111</DashboardColor>
+          <XenonLightColor>0</XenonLightColor>
+        </RequiredVariation>
+        <RequiresDLC>true</RequiresDLC>
+      </DispatchableVehicle>
+      <DispatchableVehicle>
+        <DebugName>wolfsbane_PB_Pinstripe_DLCDespawn</DebugName>
+        <ModelName>wolfsbane</ModelName>
+        <RequiredPedGroup />
+        <GroupName />
+        <MinOccupants>1</MinOccupants>
+        <MaxOccupants>1</MaxOccupants>
+        <AmbientSpawnChance>20</AmbientSpawnChance>
+        <WantedSpawnChance>20</WantedSpawnChance>
+        <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+        <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+        <RequiredPrimaryColorID>0</RequiredPrimaryColorID>
+        <RequiredSecondaryColorID>118</RequiredSecondaryColorID>
+        <RequiredLiveries />
+        <VehicleExtras />
+        <VehicleMods />
+        <MaxRandomDirtLevel>5</MaxRandomDirtLevel>
+        <ForcedPlateType>-1</ForcedPlateType>
+        <RequiredVariation>
+          <PrimaryColor>0</PrimaryColor>
+          <SecondaryColor>118</SecondaryColor>
+          <IsPrimaryColorCustom>false</IsPrimaryColorCustom>
+          <CustomPrimaryColor />
+          <IsSecondaryColorCustom>false</IsSecondaryColorCustom>
+          <CustomSecondaryColor />
+          <PearlescentColor>10</PearlescentColor>
+          <WheelColor>112</WheelColor>
+          <Mod1PaintType>7</Mod1PaintType>
+          <Mod1Color>-1</Mod1Color>
+          <Mod1PearlescentColor>-1</Mod1PearlescentColor>
+          <Mod2PaintType>7</Mod2PaintType>
+          <Mod2Color>-1</Mod2Color>
+          <Livery>-1</Livery>
+          <Livery2>-1</Livery2>
+          <WheelType>6</WheelType>
+          <WindowTint>-1</WindowTint>
+          <HasCustomWheels>false</HasCustomWheels>
+          <VehicleExtras />
+          <VehicleToggles />
+          <VehicleMods>
+            <VehicleMod>
+              <ID>0</ID>
+              <Output>3</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>1</ID>
+              <Output>2</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>2</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>3</ID>
+              <Output>1</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>4</ID>
+              <Output>5</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>7</ID>
+              <Output>3</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>8</ID>
+              <Output>6</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>10</ID>
+              <Output>6</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>23</ID>
+              <Output>21</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>24</ID>
+              <Output>21</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>48</ID>
+              <Output>3</Output>
+            </VehicleMod>
+          </VehicleMods>
+          <VehicleNeons />
+          <FuelLevel>65</FuelLevel>
+          <DirtLevel>0</DirtLevel>
+          <HasInvicibleTires>false</HasInvicibleTires>
+          <IsTireSmokeColorCustom>false</IsTireSmokeColorCustom>
+          <TireSmokeColorR>0</TireSmokeColorR>
+          <TireSmokeColorG>0</TireSmokeColorG>
+          <TireSmokeColorB>0</TireSmokeColorB>
+          <NeonColorR>0</NeonColorR>
+          <NeonColorG>0</NeonColorG>
+          <NeonColorB>0</NeonColorB>
+          <InteriorColor>111</InteriorColor>
+          <DashboardColor>111</DashboardColor>
+          <XenonLightColor>0</XenonLightColor>
+        </RequiredVariation>
+        <RequiresDLC>true</RequiresDLC>
+      </DispatchableVehicle>
+      <DispatchableVehicle>
+        <DebugName>chimera_PB_Patinastripe_DLCDespawn</DebugName>
+        <ModelName>chimera</ModelName>
+        <RequiredPedGroup />
+        <GroupName />
+        <MinOccupants>1</MinOccupants>
+        <MaxOccupants>1</MaxOccupants>
+        <AmbientSpawnChance>20</AmbientSpawnChance>
+        <WantedSpawnChance>20</WantedSpawnChance>
+        <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+        <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+        <RequiredPrimaryColorID>12</RequiredPrimaryColorID>
+        <RequiredSecondaryColorID>118</RequiredSecondaryColorID>
+        <RequiredLiveries />
+        <VehicleExtras />
+        <VehicleMods />
+        <MaxRandomDirtLevel>5</MaxRandomDirtLevel>
+        <ForcedPlateType>-1</ForcedPlateType>
+        <RequiredVariation>
+          <PrimaryColor>12</PrimaryColor>
+          <SecondaryColor>118</SecondaryColor>
+          <IsPrimaryColorCustom>false</IsPrimaryColorCustom>
+          <CustomPrimaryColor />
+          <IsSecondaryColorCustom>false</IsSecondaryColorCustom>
+          <CustomSecondaryColor />
+          <PearlescentColor>0</PearlescentColor>
+          <WheelColor>147</WheelColor>
+          <Mod1PaintType>7</Mod1PaintType>
+          <Mod1Color>0</Mod1Color>
+          <Mod1PearlescentColor>0</Mod1PearlescentColor>
+          <Mod2PaintType>7</Mod2PaintType>
+          <Mod2Color>0</Mod2Color>
+          <Livery>-1</Livery>
+          <Livery2>-1</Livery2>
+          <WheelType>6</WheelType>
+          <WindowTint>0</WindowTint>
+          <HasCustomWheels>false</HasCustomWheels>
+          <VehicleExtras />
+          <VehicleToggles />
+          <VehicleMods>
+            <VehicleMod>
+              <ID>0</ID>
+              <Output>3</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>1</ID>
+              <Output>3</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>3</ID>
+              <Output>7</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>4</ID>
+              <Output>4</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>5</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>7</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>8</ID>
+              <Output>7</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>10</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>23</ID>
+              <Output>21</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>48</ID>
+              <Output>17</Output>
+            </VehicleMod>
+          </VehicleMods>
+          <VehicleNeons />
+          <FuelLevel>65</FuelLevel>
+          <DirtLevel>0</DirtLevel>
+          <HasInvicibleTires>false</HasInvicibleTires>
+          <IsTireSmokeColorCustom>false</IsTireSmokeColorCustom>
+          <TireSmokeColorR>0</TireSmokeColorR>
+          <TireSmokeColorG>0</TireSmokeColorG>
+          <TireSmokeColorB>0</TireSmokeColorB>
+          <NeonColorR>0</NeonColorR>
+          <NeonColorG>0</NeonColorG>
+          <NeonColorB>0</NeonColorB>
+          <InteriorColor>111</InteriorColor>
+          <DashboardColor>111</DashboardColor>
+          <XenonLightColor>0</XenonLightColor>
+        </RequiredVariation>
+        <RequiresDLC>true</RequiresDLC>
+      </DispatchableVehicle>
+      <DispatchableVehicle>
+        <DebugName>surfer3_PB_LOST_DLCDespawn</DebugName>
+        <ModelName>surfer3</ModelName>
+        <RequiredPedGroup />
+        <GroupName />
+        <MinOccupants>1</MinOccupants>
+        <MaxOccupants>4</MaxOccupants>
+        <AmbientSpawnChance>20</AmbientSpawnChance>
+        <WantedSpawnChance>20</WantedSpawnChance>
+        <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+        <MaxWantedLevelSpawn>6</MaxWantedLevelSpawn>
+        <RequiredPrimaryColorID>12</RequiredPrimaryColorID>
+        <RequiredSecondaryColorID>12</RequiredSecondaryColorID>
+        <RequiredLiveries />
+        <VehicleExtras />
+        <VehicleMods />
+        <MaxRandomDirtLevel>5</MaxRandomDirtLevel>
+        <ForcedPlateType>-1</ForcedPlateType>
+        <RequiredVariation>
+          <PrimaryColor>12</PrimaryColor>
+          <SecondaryColor>12</SecondaryColor>
+          <IsPrimaryColorCustom>false</IsPrimaryColorCustom>
+          <CustomPrimaryColor />
+          <IsSecondaryColorCustom>false</IsSecondaryColorCustom>
+          <CustomSecondaryColor />
+          <PearlescentColor>0</PearlescentColor>
+          <WheelColor>28</WheelColor>
+          <Mod1PaintType>7</Mod1PaintType>
+          <Mod1Color>-1</Mod1Color>
+          <Mod1PearlescentColor>-1</Mod1PearlescentColor>
+          <Mod2PaintType>7</Mod2PaintType>
+          <Mod2Color>-1</Mod2Color>
+          <Livery>-1</Livery>
+          <Livery2>-1</Livery2>
+          <WheelType>1</WheelType>
+          <WindowTint>3</WindowTint>
+          <HasCustomWheels>false</HasCustomWheels>
+          <VehicleExtras>
+            <VehicleExtra>
+              <ID>0</ID>
+              <IsTurnedOn>false</IsTurnedOn>
+            </VehicleExtra>
+            <VehicleExtra>
+              <ID>1</ID>
+              <IsTurnedOn>false</IsTurnedOn>
+            </VehicleExtra>
+            <VehicleExtra>
+              <ID>2</ID>
+              <IsTurnedOn>true</IsTurnedOn>
+            </VehicleExtra>
+          </VehicleExtras>
+          <VehicleToggles />
+          <VehicleMods>
+            <VehicleMod>
+              <ID>1</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>2</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>4</ID>
+              <Output>7</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>7</ID>
+              <Output>0</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>9</ID>
+              <Output>2</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>23</ID>
+              <Output>9</Output>
+            </VehicleMod>
+            <VehicleMod>
+              <ID>48</ID>
+              <Output>7</Output>
+            </VehicleMod>
+          </VehicleMods>
+          <VehicleNeons />
+          <FuelLevel>65</FuelLevel>
+          <DirtLevel>0</DirtLevel>
+          <HasInvicibleTires>false</HasInvicibleTires>
+          <IsTireSmokeColorCustom>false</IsTireSmokeColorCustom>
+          <TireSmokeColorR>0</TireSmokeColorR>
+          <TireSmokeColorG>0</TireSmokeColorG>
+          <TireSmokeColorB>0</TireSmokeColorB>
+          <NeonColorR>0</NeonColorR>
+          <NeonColorG>0</NeonColorG>
+          <NeonColorB>0</NeonColorB>
+          <InteriorColor>111</InteriorColor>
+          <DashboardColor>111</DashboardColor>
+          <XenonLightColor>0</XenonLightColor>
+        </RequiredVariation>
+        <RequiresDLC>true</RequiresDLC>
+      </DispatchableVehicle>
